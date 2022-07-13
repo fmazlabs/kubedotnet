@@ -1,6 +1,6 @@
 # Running a dotnet app in Kubernetes
 
-## Run dotnet on your mac..
+## Run dotnet on your mac....
 
 First, you'll need to install dotnet core on your mac. You can easily do this by following the instructions here: https://www.microsoft.com/net/learn/get-started-with-dotnet-tutorial
 
